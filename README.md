@@ -63,7 +63,7 @@ See also https://github.com/semantalytics/awesome-semantic-web#java.
 ## People
 
 * [Håvard M. Ottestad](https://github.com/hmottestad) maintains #RDF4j
-* [Piotr Sowiński](https://ostrzyciel.eu) maintains #RDF4j, [Jelly](https://jelly-rdf.github.io/dev/), [RiverBench](https://github.com/RiverBench/RiverBench),
+* [Piotr Sowiński](https://ostrzyciel.eu) at [NeverBlink](https://neverblink.eu) maintains [Jelly](https://w3id.org/jelly), [RiverBench](https://github.com/RiverBench/RiverBench)
 * [Filip26](https://github.com/filip26) at [API Catalog](https://apicatalog.com/) maintains titanium-* and titanium-* etc. libraries
 * [Ken Wenzel](https://github.com/kenwenzel) maintains #RDF4j, [Komma](https://github.com/komma/komma), [enilink](https://github.com/enilink/enilink), [LinkedFactory Pod](https://github.com/linkedfactory/linkedfactory-pod)
 * [Andreas Schwarte](https://github.com/aschwarte10) at [Metaphacts](https://metaphacts.com/) maintains #RDF4j
