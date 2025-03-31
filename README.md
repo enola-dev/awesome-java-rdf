@@ -21,6 +21,7 @@ See also https://github.com/semantalytics/awesome-semantic-web#java.
 * [LinkML Java Generator](https://linkml.io/linkml/generators/java.html)
 * [VoIDToJava](https://github.com/TRIPLE-CHIST-ERA/VoIDToJava) #SparQL
 * [Kobee1203's Schema.org JSON-LD Java bindings](https://github.com/Kobee1203/schema-org-java)
+* [JenaX Reprogen](https://scaseco.github.io/jenax/jenax-reprogen-parent/README.html)
 * [filip26's linked-tree ORM](https://github.com/filip26/linked-tree/blob/0f8d15d5002fb41dc828155f773e01e16cf72509/java/src/test/java/com/apicatalog/linkedtree/orm/test/AnnotatedCredential.java) #WIP #unreleased
 * [Enola.dev](https://github.com/enola-dev/enola/blob/8c2c1dcd12fe2ae1fcea4340d4612b0af493c1a9/java/dev/enola/thing/java/test/TestSomething.java#L34C18-L34C31) vorburger:ToDo #unreleased
 * [Jastor](https://jastor.sourceforge.net/) #jena #ibm #cambridgesemantics lastUpdated:2006-07-25 #defunct
