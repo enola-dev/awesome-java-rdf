@@ -39,6 +39,9 @@ See also https://github.com/semantalytics/awesome-semantic-web#java.
 
 ## Tools
 
+* [`ld-cli`](https://github.com/filip26/ld-cli)
+* [Enola.dev](https://docs.enola.dev/use/help/)
+* [rdflint](https://github.com/imas/rdflint)
 * [git_to_rdf](https://github.com/justin2004/git_to_rdf) #clojure
 
 ## Inference
