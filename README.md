@@ -4,8 +4,9 @@ Curated list of #awesome Resource Description Framework (#RDF), #SemanticWeb, #L
 
 ## Base
 
-* [RDF4j](https://rdf4j.org/) #rdf4j
-* [Apache Jena](https://jena.apache.org/) #jena
+* [RDF4j](https://rdf4j.org/) ##rdf4j schema:successorOf #sesame
+* [Apache Jena](https://jena.apache.org/) ##jena
+* [OpenRDF Sesame](https://www.openrdf.org/) ##sesame #defunct pkg:maven/org.openrdf.sesame/ https://github.com/ansell/openrdf-sesame https://bitbucket.org/openrdf/sesame/
 
 ## APIs
 
@@ -17,7 +18,15 @@ See also https://github.com/semantalytics/awesome-semantic-web#java.
 ## Typed
 
 * [Komma](https://github.com/komma/komma)
+* [LinkML Java Generator](https://linkml.io/linkml/generators/java.html)
+* [VoIDToJava](https://github.com/TRIPLE-CHIST-ERA/VoIDToJava) #SparQL
+* [Kobee1203's Schema.org JSON-LD Java bindings](https://github.com/Kobee1203/schema-org-java)
+* [filip26's linked-tree ORM](https://github.com/filip26/linked-tree/blob/0f8d15d5002fb41dc828155f773e01e16cf72509/java/src/test/java/com/apicatalog/linkedtree/orm/test/AnnotatedCredential.java) #WIP #unreleased
+* [Enola.dev](https://github.com/enola-dev/enola/blob/8c2c1dcd12fe2ae1fcea4340d4612b0af493c1a9/java/dev/enola/thing/java/test/TestSomething.java#L34C18-L34C31) vorburger:ToDo #unreleased
 * [Jastor](https://jastor.sourceforge.net/) #jena #ibm #cambridgesemantics lastUpdated:2006-07-25 #defunct
+* [Pinto](https://github.com/stardog-union/pinto) #stardog #sesame #defunct
+* [Empire](https://github.com/mhgrove/Empire) #stardog #JPA #defunct
+* Inrupt's Solid RDF SDK? #ToDo
 
 ## Formats
 
@@ -40,6 +49,7 @@ See also https://github.com/semantalytics/awesome-semantic-web#java.
 ## Organizations
 
 * [Ontotext](https://www.ontotext.com/) #ontotext #KG
+* [Stardog](https://www.stardog.com/)
 * [MetaSolutions](http://www.metasolutions.se)
 * [Metaphacts](https://metaphacts.com/)
 * [API Catalog](https://apicatalog.com/)
@@ -55,7 +65,8 @@ See also https://github.com/semantalytics/awesome-semantic-web#java.
 * [Ken Wenzel](https://github.com/kenwenzel) maintains #RDF4j, [Komma](https://github.com/komma/komma), [enilink](https://github.com/enilink/enilink), [LinkedFactory Pod](https://github.com/linkedfactory/linkedfactory-pod)
 * [Andreas Schwarte](https://github.com/aschwarte10) at [Metaphacts](https://metaphacts.com/) maintains #RDF4j
 * [Hannes Ebner](http://ebner.se) at [MetaSolutions](http://www.metasolutions.se) maintains #RDF4j
-* [Michael Vorburger](https://www.vorburger.ch/) dabbles on [Enola.dev](https://docs.enola.dev/)
+* [Jerven Bolleman](https://orcid.org/0000-0002-7449-1266) on https://github.com/JervenBolleman at https://www.sib.swiss #lausanne #swiss vorburger:ToDo
+* [Michael Vorburger.ch](https://www.vorburger.ch/) dabbles on [Enola.dev](https://docs.enola.dev/) #lausanne #swiss
 
 ## Related
 
