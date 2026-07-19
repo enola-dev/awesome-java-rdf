@@ -45,6 +45,7 @@ See also https://github.com/semantalytics/awesome-semantic-web#java.
 * [`jelly-cli`](https://github.com/Jelly-RDF/cli)
 * [rdflint](https://github.com/imas/rdflint)
 * [git_to_rdf](https://github.com/justin2004/git_to_rdf) #clojure
+* [LinkML-Scala](https://github.com/NeverBlink-OSS/linkml-scala) #scala
 
 ## Inference
 
@@ -57,6 +58,7 @@ See also https://github.com/semantalytics/awesome-semantic-web#java.
 * [Stardog](https://www.stardog.com/)
 * [MetaSolutions](http://www.metasolutions.se)
 * [Metaphacts](https://metaphacts.com/)
+* [NeverBlink](https://neverblink.eu)
 * [API Catalog](https://apicatalog.com/)
 * [cambridgesemantics.com](http://cambridgesemantics.com/) #cambridgesemantics #defunct => [Altair](https://altair.com/)
 * [Triply](https://triply.cc/)
@@ -65,7 +67,7 @@ See also https://github.com/semantalytics/awesome-semantic-web#java.
 ## People
 
 * [Håvard M. Ottestad](https://github.com/hmottestad) maintains #RDF4j
-* [Piotr Sowiński](https://ostrzyciel.eu) at [NeverBlink](https://neverblink.eu) maintains [Jelly](https://w3id.org/jelly), [RiverBench](https://github.com/RiverBench/RiverBench)
+* [Piotr Sowiński](https://ostrzyciel.eu) at [NeverBlink](https://neverblink.eu) maintains [Jelly](https://w3id.org/jelly), [LinkML-Scala](https://github.com/NeverBlink-OSS/linkml-scala), [RiverBench](https://github.com/RiverBench/RiverBench)
 * [Filip26](https://github.com/filip26) at [API Catalog](https://apicatalog.com/) maintains titanium-* and titanium-* etc. libraries
 * [Ken Wenzel](https://github.com/kenwenzel) maintains #RDF4j, [Komma](https://github.com/komma/komma), [enilink](https://github.com/enilink/enilink), [LinkedFactory Pod](https://github.com/linkedfactory/linkedfactory-pod)
 * [Andreas Schwarte](https://github.com/aschwarte10) at [Metaphacts](https://metaphacts.com/) maintains #RDF4j
